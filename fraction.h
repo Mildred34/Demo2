@@ -7,7 +7,7 @@ private:
 	int m_den;
 
 public:
-	Zfraction(int a, int b=1;
+	Zfraction(int a, int b=1);
 	Zfraction();
 	void afficher() const;
 	Zfraction somme(const Zfraction& b) const;
